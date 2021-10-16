@@ -54,7 +54,11 @@ table {
 body {
 	-webkit-text-size-adjust: none;
 }
-
+#me {
+	max-width: 350px;
+	border-radius: 50%;
+	border: 2px outset silver;
+}
 mark {
 	background-color: transparent;
 	color: inherit;
@@ -2661,7 +2665,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #004CF0;
+			background-color: #6473A9;
 			border-radius: 6px;
 			border: 0;
 			box-shadow: none;

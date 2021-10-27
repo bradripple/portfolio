@@ -63,7 +63,10 @@ mark {
 	background-color: transparent;
 	color: inherit;
 }
-
+#cv-link {
+	text-decoration: none;
+	font-size: 25px;
+}
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
@@ -137,7 +140,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #39B4D8;
+		color: #6473A9;
 		text-decoration: none;
 	}
 

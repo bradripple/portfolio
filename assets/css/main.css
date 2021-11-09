@@ -56,7 +56,7 @@ body {
 }
 #me {
 	max-width: 350px;
-	border-radius: 50%;
+	border-radius: 11px;
 	border: 2px outset silver;
 }
 mark {
@@ -96,7 +96,7 @@ input, select, textarea {
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/lake.jpeg");
+		background-image: url("images/overlay.png"), url("../../images/WaterDrop.jpeg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
@@ -2949,7 +2949,7 @@ input, select, textarea {
 		/* Main */
 
 			.main .image.primary {
-				display: block;
+				display: none;
 				margin: 0 0 4em 0;
 			}
 
